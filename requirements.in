@@ -1,0 +1,13 @@
+numpy
+scipy
+sklearn
+matplotlib
+matplotlib-venn
+venn
+bokeh
+jupyter
+jupyter_contrib_nbextensions   #https://medium.com/somosfit/version-control-on-jupyter-notebooks-6b67a0cf12a3
+autopep8
+pandas
+seaborn
+tabulate
